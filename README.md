@@ -27,11 +27,16 @@ _Undanfari Vefsíðuhönnun I_
 * Stílbrögð
 * forvinnsla stíla
 * Kvikun
-
-# Vefsíðuhönnun III
-_Undanfari Vefsíðuhönnun II_
 * töflur
 * form
+````
+**Framhald á næsta ári**
+# Vefsíðuhönnun III
+_Undanfari Vefsíðuhönnun II_
 * Gagnvirkni
-* 
+  * Javaskrift
+  * PHP/Python
+  * Gagnagrunnar
+  * Framework
+  
 

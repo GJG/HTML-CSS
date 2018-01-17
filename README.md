@@ -6,6 +6,7 @@ Allt námsefnið verður aðgengilegt á  [Github.com/vefhonnun](https://github.
 * Hópverkefnavinna
 * Hugmyndavinna, skipulagning og verkstjórn 
 * Kynning á samþáttun og verkstjórn 
+* Innsetning vefsíðu á Github.io
 
 # Vefsíðuhönnun I
 _Undanfari engin_

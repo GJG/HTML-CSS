@@ -2,7 +2,9 @@ Skipulag námsefnis
 # GitHub 
 * grunnatriði í uppsetningu geymlsu
 * innsetning gagna í geymslu
-* kynning á samþáttun og verkstjórn með Git/GitHub
+* hópverkefnavinna
+* Hugmyndavinna, skipulagning og verkstjórn 
+* kynning á samþáttun og verkstjórn 
 
 # Vefsíðuhönnun I
 _Undanfari engin_

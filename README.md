@@ -1,4 +1,4 @@
-####Skipulag námsefnis
+#### Skipulag námsefnis
 Allt námsefnið verður aðgengilegt á  [Github.com/vefhonnun](https://github.com/vefhonnun)
 # GitHub 
 * Grunnatriði í uppsetningu geymslu _(repository)_

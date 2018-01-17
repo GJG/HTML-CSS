@@ -1,2 +1,4 @@
-# HTML-CSS
-Vefsíðuhönnun
+Skipulag námsefnis
+
+# Vefsíðuhönnun I
+#### HTML-CSS

@@ -1,10 +1,11 @@
-Skipulag námsefnis
+####Skipulag námsefnis
+Allt efni verður aðgengilegt á  Github.com/vefhonnun
 # GitHub 
-* grunnatriði í uppsetningu geymlsu
-* innsetning gagna í geymslu
-* hópverkefnavinna
+* Grunnatriði í uppsetningu geymslu _(repository)_
+* Innsetning gagna í geymslu
+* Hópverkefnavinna
 * Hugmyndavinna, skipulagning og verkstjórn 
-* kynning á samþáttun og verkstjórn 
+* Kynning á samþáttun og verkstjórn 
 
 # Vefsíðuhönnun I
 _Undanfari engin_

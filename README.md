@@ -1,5 +1,5 @@
 ####Skipulag námsefnis
-Allt efni verður aðgengilegt á  Github.com/vefhonnun
+Allt námsefnið verður aðgengilegt á  [Github.com/vefhonnun](https://github.com/vefhonnun)
 # GitHub 
 * Grunnatriði í uppsetningu geymslu _(repository)_
 * Innsetning gagna í geymslu

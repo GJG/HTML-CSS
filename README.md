@@ -1,4 +1,8 @@
 Skipulag námsefnis
+# GitHub 
+* grunnatriði í uppsetningu geymlsu
+* innsetning gagna í geymslu
+* kynning á samþáttun og verkstjórn með Git/GitHub
 
 # Vefsíðuhönnun I
 _Undanfari engin_
@@ -20,8 +24,14 @@ _Undanfari engin_
 # Vefsíðuhönnun II
 _Undanfari Vefsíðuhönnun I_
 * Sveigjanleg vefsíðuhönnun (RWD)
-* 
+* Stílbrögð
+* forvinnsla stíla
+* Kvikun
 
 # Vefsíðuhönnun III
-
+_Undanfari Vefsíðuhönnun II_
+* töflur
+* form
+* Gagnvirkni
+* 
 

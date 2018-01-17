@@ -7,12 +7,21 @@ _Undanfari engin_
 * CSS Stílsíður
   * Stílar settir á vefsíðu
 * Skipulag vefsíðu
-  * Boxmodelið
+  * Boxmodelið og grindakerfið
 * Leturfræði
   * meðhöndlun leturs 
 * Myndvinnsla
   * Gimp myndvinnsluforritið
+  * Innsetning kvikmynda- og hljóðskráa
 * Margmiðlun
-  * innsetning kvikmynda- og hljóðskráa
+  * Kvikmynda- og hljóðvinnsla
+  * innsetning kvikmynda- og hljóðskráa 
+  
+# Vefsíðuhönnun II
+_Undanfari Vefsíðuhönnun I_
+* Sveigjanleg vefsíðuhönnun (RWD)
+* 
+
+# Vefsíðuhönnun III
 
 

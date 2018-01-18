@@ -29,9 +29,9 @@ _Undanfari engin_
 _Undanfari Vefsíðuhönnun I_
 * Sveigjanleg vefsíðuhönnun (RWD)
 * Stílbrögð í CSS
- * Fellilisti
- * Föst staðetning
- * Forvinnsla stíla (SCSS)
+  * Fellilisti
+  * Föst staðetning
+  * Forvinnsla stíla (SCSS)
 * Kvikun
 * Töflur
 * Gagnvirkni

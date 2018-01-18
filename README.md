@@ -34,6 +34,7 @@ _Undanfari engin_
   
 # Vefsíðuhönnun II
 _Undanfari Vefsíðuhönnun I_
+* Skipulagning og undirbúningur vefs
 * Sveigjanleg vefsíðuhönnun (RWD)
 * Stílbrögð í CSS
   * Fellilisti

@@ -17,30 +17,28 @@ _Undanfari engin_
 * Skipulag vefsíðu
   * Boxmodelið og grindakerfið
 * Leturfræði
-  * meðhöndlun leturs 
+  * Meðhöndlun leturs 
 * Myndvinnsla
   * Gimp myndvinnsluforritið
   * Innsetning kvikmynda- og hljóðskráa
 * Margmiðlun
   * Kvikmynda- og hljóðvinnsla
-  * innsetning kvikmynda- og hljóðskráa 
+  * Innsetning kvikmynda- og hljóðskráa 
   
 # Vefsíðuhönnun II
 _Undanfari Vefsíðuhönnun I_
 * Sveigjanleg vefsíðuhönnun (RWD)
-* Stílbrögð
-* forvinnsla stíla
+* Stílbrögð í CSS
+ * Fellilisti
+ * Föst staðetning
+ * Forvinnsla stíla (SCSS)
 * Kvikun
-* töflur
-* form
-````
-**Framhald á næsta ári**
-# Vefsíðuhönnun III
-_Undanfari Vefsíðuhönnun II_
+* Töflur
 * Gagnvirkni
   * Javaskrift
+  * form
   * PHP/Python
   * Gagnagrunnar
-  * Framework
+  * Vefumsjónarkerfi
   
 

@@ -1,8 +1,17 @@
 # Vefhönnun
 
+Námsefnið verður hýst á Github.com/vefhonnun . Nemendur og kennarar geta notað það endurgjaldslaust. Kennarar geta sótt stutt námskeið í notkun GitHub sem umsjónarkerfi verkefna.
+
 #### Kennsluaðferð
-* Skjákynningar
-* Verkefnadæmi
+* Skjákynningar (video)
+* Verklýsingar 
+
+#### Kennsluumhverfi
+ * GitHub
+   * Geymslur _(repository)_
+   * Umræður _(issues)_
+   * Wiki _(ýtarefni)_
+   * Project _(Skipulag)_
 
 #### Skipulag námsefnis
 

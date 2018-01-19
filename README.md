@@ -1,9 +1,10 @@
 # Vefhönnun
 Allt námsefnið verður aðgengilegt á  [Github.com/vefhonnun](https://github.com/vefhonnun). Nemendur og kennarar geta notað það endurgjaldslaust. 
 
-#### Kennsluaðferð
+#### Kennslugögn
 * Skjákynningar (video)
 * Verklýsingar 
+* Verkefnadæmi
 
 #### Kennsluumhverfi
  * GitHub

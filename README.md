@@ -1,6 +1,5 @@
 # Vefhönnun
-
-Námsefnið verður hýst á [Github.com/vefhonnun](https://github.com/vefhonnun). Nemendur og kennarar geta notað það endurgjaldslaust. Kennarar geta sótt stutt námskeið í notkun GitHub sem umsjónarkerfi verkefna.
+Allt námsefnið verður aðgengilegt á  [Github.com/vefhonnun](https://github.com/vefhonnun). Nemendur og kennarar geta notað það endurgjaldslaust. 
 
 #### Kennsluaðferð
 * Skjákynningar (video)
@@ -13,10 +12,11 @@ Námsefnið verður hýst á [Github.com/vefhonnun](https://github.com/vefhonnun
    * Wiki _(ýtarefni)_
    * Project _(Skipulag)_
 
+Kennarar geta sótt stutt námskeið í notkun GitHub sem umsjónarkerfi verkefna.
+
 #### Skipulag námsefnis
 
-Allt námsefnið verður aðgengilegt á  [Github.com/vefhonnun](https://github.com/vefhonnun)
-# GitHub 
+## GitHub 
 * Grunnatriði í uppsetningu geymslu _(repository)_
 * Innsetning gagna í geymslu
 * Hópverkefnavinna
@@ -24,7 +24,7 @@ Allt námsefnið verður aðgengilegt á  [Github.com/vefhonnun](https://github.
 * Kynning á samþáttun og verkstjórn 
 * Innsetning vefsíðu á Github.io
 
-# Vefsíðuhönnun I
+## Vefsíðuhönnun I
 _Undanfari engin_
 * HTML ívafsmálið
   * Tög og uppbygging vefsíðu
@@ -41,7 +41,7 @@ _Undanfari engin_
   * Kvikmynda- og hljóðvinnsla
   * Innsetning kvikmynda- og hljóðskráa 
   
-# Vefsíðuhönnun II
+## Vefsíðuhönnun II
 _Undanfari Vefsíðuhönnun I_
 * Skipulagning og undirbúningur vefs
 * Sveigjanleg vefsíðuhönnun (RWD)

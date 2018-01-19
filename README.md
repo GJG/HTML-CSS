@@ -1,6 +1,6 @@
 # Vefhönnun
 
-Námsefnið verður hýst á (https://github.com/vefhonnun)[Github.com/vefhonnun]. Nemendur og kennarar geta notað það endurgjaldslaust. Kennarar geta sótt stutt námskeið í notkun GitHub sem umsjónarkerfi verkefna.
+Námsefnið verður hýst á [Github.com/vefhonnun](https://github.com/vefhonnun). Nemendur og kennarar geta notað það endurgjaldslaust. Kennarar geta sótt stutt námskeið í notkun GitHub sem umsjónarkerfi verkefna.
 
 #### Kennsluaðferð
 * Skjákynningar (video)

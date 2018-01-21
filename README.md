@@ -50,7 +50,7 @@ _Undanfari Vefsíðuhönnun I_
   * Föst staðetning
   * Forvinnsla stíla (SCSS)
 
-## Vefsíðuhönnun II
+## Vefsíðuhönnun III
 * Gagnvirkni
   * Javaskrift
   * form / töflur

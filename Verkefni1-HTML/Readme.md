@@ -2,7 +2,7 @@
 
 [Skjákynning 1. verkefni](https://gjg.github.io/Vefhonnun/)
 
-ATHUGIÐ að þessi upptaka er komin til ára sinna og er einungis hér til að sýna fyrirkomulag kennsluefnis. Ef að umsóknin verður samþykkt þá verður allt efni tekið upp og endurbætt.
+**ATHUGIÐ** að þessi skjákynning er komin til ára sinna og er einungis hér til að sýna fyrirkomulag kennsluefnis. Ef að umsóknin verður samþykkt þá verður allt efni tekið upp og endurbætt.
 
  
 **HTML** er ívafsmál _(HyperText Markup Language)_  notað til þess að sníða stiklutexta.  Það inniheldur fjöldann allan af svonefndum tögum (tags) sem eru notuð til að merkja á rökréttan hátt hvaða hlutar skjalsins þýða hvað, til dæmis hver fyrsta fyrirsögnin á síðunni er. 

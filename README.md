@@ -4,8 +4,8 @@ Allt námsefnið verður aðgengilegt á [Github.com/vefhonnun/vsh1/](https://gi
 #### Kennslugögn
 * Skjákynningar (video)
 * Verklýsingar 
-* Verkefnadæmi
-Hér er dæmi um hvernig verkefni verður sett upp: [Verkefni 1. HTML](Verkefni1-HTML/).
+* Verkefnadæmi. 
+  * Hér er dæmi um uppsetningu verkefnis: [Verkefni 1. HTML](Verkefni1-HTML/).
 
 #### Kennsluumhverfi
  * GitHub

@@ -1,6 +1,6 @@
 # HTML vefritun  
 
-[Skjákynning 1. verkefni]()
+[Skjákynning 1. verkefni](https://gjg.github.io/Vefhonnun/)
 
 ATHUGIÐ að þessi upptaka er komin til ára sinna og er einungis hér til að sýna fyrirkomulag kennsluefnis. Ef að umsóknin verður samþykkt þá verður allt efni tekið upp og endurbætt.
 
@@ -15,6 +15,6 @@ Tæmandi listi yfir helstu tög sem notuð eru við html ritun er t.d. að finna
 
 # Kennsluaðferð
 * verkefnum deilt út sem geymslum
-* Verkefnalýsingar eru á skjákynningarformi (screencast) og 
+* Verkefnalýsingar eru á skjákynningarformi (screencast) 
 * Verkefnadæmi er hægt að skoða á textaformi (.txt) 
-* bjargir á ýtarefni í Wiki
+* Bjargir á ýtarefni í Wiki

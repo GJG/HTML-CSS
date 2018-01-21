@@ -1,5 +1,5 @@
 # Vefhönnun
-Allt námsefnið verður aðgengilegt á  [Github.com/vefhonnun-1](https://github.com/vefhonnun). Nemendur og kennarar geta notað það endurgjaldslaust. Hugbúnaður sem verður notaður er aðgengilegur á internetinu og er gjaldfrjáls. Það er síðan möguleiki að bjóða Kennurum á stutt námskeið í notkun GitHub sem umsjónarkerfi verkefna. Kennsluefnið verður samansett af skjákynningum (_screencast_), skrkiflegum verklýsingum og dæmum sem hægt er að skoða í viðkomandi verkefni. Hér er dæmi um hvernig verkefni er sett upp: (tengill). 
+Allt námsefnið verður aðgengilegt á [Github.com/vefhonnun/vsh1/](https://github.com/vefhonnun). Kennsluefnið verður samansett af skjákynningum (_screencast_), skriflegum verklýsingum og dæmum sem hægt er að skoða. Hér er dæmi um hvernig verkefni er sett upp: (tengill). Nemendur og kennarar geta notað það endurgjaldslaust. Hugbúnaður sem verður notaður er aðgengilegur á internetinu og er gjaldfrjáls. Það getur verið möguleiki að bjóða Kennurum á stutt námskeið í notkun GitHub sem umsjónarkerfi verkefna.
 
 #### Kennslugögn
 * Skjákynningar (video)
@@ -23,7 +23,7 @@ Allt námsefnið verður aðgengilegt á  [Github.com/vefhonnun-1](https://githu
 * Kynning á samþáttun og verkstjórn 
 * Innsetning vefsíðu á Github.io
 
-## Vefsíðuhönnun I
+## Vefsíðuhönnun I (vsh1)
 _Undanfari engin_
 * HTML ívafsmálið
   * Tög og uppbygging vefsíðu
@@ -40,7 +40,7 @@ _Undanfari engin_
   * Kvikmynda- og hljóðvinnsla
   * Innsetning kvikmynda- og hljóðskráa 
   
-## Vefsíðuhönnun II
+## Vefsíðuhönnun II (vsh2)
 _Undanfari Vefsíðuhönnun I_
 * Skipulagning og undirbúningur vefs
 * Sveigjanleg vefsíðuhönnun (RWD)
@@ -49,11 +49,16 @@ _Undanfari Vefsíðuhönnun I_
   * Fellilisti
   * Föst staðetning
   * Forvinnsla stíla (SCSS)
+* Viðmótsforritun - _Javaskrift_
 
-## Vefsíðuhönnun III
+## Vefþróun I (vef1)
 _Undanfari Vefsíðuhönnun II_
+* Samskipti og staðlar
+  * IP/TCP
+  * HTTP/HTTPS
+  * FTP/FTPS
+  * SSH
 * Gagnvirkni
-  * Viðmótsforritun - Javaskrift
   * Vefforritun - PHP/Python
   * Gagnagrunnar - mySQL
   * Vefumsjónarkerfi - 

@@ -2,7 +2,7 @@
 
 [![Skjákynning 1. verkefni]()](https://youtu.be/xXAKO71K6Mc)
 
-[Skjákynning 1. verkefni](https://youtu.be/xXAKO71K6Mc)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xXAKO71K6Mc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ATHUGIÐ að þessi upptaka er komin til ára sinna og er einungis hér til að sýna fyrirkomulag kennsluefnis. Ef að umsóknin verður samþykkt þá verður ......
 

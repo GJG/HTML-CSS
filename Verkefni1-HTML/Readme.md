@@ -1,10 +1,8 @@
 # HTML vefritun  
 
-[![Skjákynning 1. verkefni]()](https://youtu.be/xXAKO71K6Mc)
+[Skjákynning 1. verkefni]()
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xXAKO71K6Mc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-ATHUGIÐ að þessi upptaka er komin til ára sinna og er einungis hér til að sýna fyrirkomulag kennsluefnis. Ef að umsóknin verður samþykkt þá verður ......
+ATHUGIÐ að þessi upptaka er komin til ára sinna og er einungis hér til að sýna fyrirkomulag kennsluefnis. Ef að umsóknin verður samþykkt þá verður allt efni tekið upp og endurbætt.
 
  
 **HTML** er ívafsmál _(HyperText Markup Language)_  notað til þess að sníða stiklutexta.  Það inniheldur fjöldann allan af svonefndum tögum (tags) sem eru notuð til að merkja á rökréttan hátt hvaða hlutar skjalsins þýða hvað, til dæmis hver fyrsta fyrirsögnin á síðunni er. 

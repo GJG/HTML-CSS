@@ -1,6 +1,8 @@
 # HTML vefritun  
 
-[![347m4n forever]()](https://youtu.be/xXAKO71K6Mc)
+[![Skjákynning 1. verkefni]()](https://youtu.be/xXAKO71K6Mc)
+
+[Skjákynning 1. verkefni](https://youtu.be/xXAKO71K6Mc)
 
 ATHUGIÐ að þessi upptaka er komin til ára sinna og er einungis hér til að sýna fyrirkomulag kennsluefnis. Ef að umsóknin verður samþykkt þá verður ......
 
@@ -14,7 +16,7 @@ Allar vefsíður byrja á &lt;html> og enda á &lt;/html> taginu.  Munurinn á o
 Tæmandi listi yfir helstu tög sem notuð eru við html ritun er t.d. að finna á vefsíðunni [www.w3schools.com](http://www.w3schools.com/html5/html5_reference.asp) 
 
 # Kennsluaðferð
-* Video skjákynningar
 * verkefnum deilt út sem geymslum
-  * verkefnalýsingar á .md skrám í viðkomandi geymslu
-  * bjargir á ýtarefni
+* Verkefnalýsingar eru á skjákynningarformi (screencast) og 
+* Verkefnadæmi er hægt að skoða á textaformi (.txt) 
+* bjargir á ýtarefni í Wiki

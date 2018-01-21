@@ -44,15 +44,16 @@ _Undanfari engin_
 _Undanfari Vefsíðuhönnun I_
 * Skipulagning og undirbúningur vefs
 * Sveigjanleg vefsíðuhönnun (RWD)
+* Kvikun (_animation_)
 * Stílbrögð í CSS
   * Fellilisti
   * Föst staðetning
   * Forvinnsla stíla (SCSS)
-* Kvikun
-* Töflur
+
+## Vefsíðuhönnun II
 * Gagnvirkni
   * Javaskrift
-  * form
+  * form / töflur
   * PHP/Python
   * Gagnagrunnar
   * Vefumsjónarkerfi

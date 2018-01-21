@@ -1,5 +1,5 @@
 # Vefhönnun
-Allt námsefnið verður aðgengilegt á  [Github.com/vefhonnun](https://github.com/vefhonnun). Nemendur og kennarar geta notað það endurgjaldslaust. 
+Allt námsefnið verður aðgengilegt á  [Github.com/vefhonnun](https://github.com/vefhonnun). Nemendur og kennarar geta notað það endurgjaldslaust. Hugbúnaður sem notaður verðurur er aðgengilegur á internetinu og gjaldfrjáls.
 
 #### Kennslugögn
 * Skjákynningar (video)
@@ -13,8 +13,6 @@ Allt námsefnið verður aðgengilegt á  [Github.com/vefhonnun](https://github.
    * Wiki _(ýtarefni)_
    * Project _(Skipulag)_
 
-Kennarar geta sótt stutt námskeið í notkun GitHub sem umsjónarkerfi verkefna.
-
 #### Skipulag námsefnis
 
 ## GitHub 
@@ -24,6 +22,7 @@ Kennarar geta sótt stutt námskeið í notkun GitHub sem umsjónarkerfi verkefn
 * Hugmyndavinna, skipulagning og verkstjórn 
 * Kynning á samþáttun og verkstjórn 
 * Innsetning vefsíðu á Github.io
+* ** Það er möguleiki að bjóða Kennurum á stutt námskeið í notkun GitHub sem umsjónarkerfi verkefna.**
 
 ## Vefsíðuhönnun I
 _Undanfari engin_

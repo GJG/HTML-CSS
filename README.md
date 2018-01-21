@@ -1,5 +1,5 @@
 # Vefhönnun
-Allt námsefnið verður aðgengilegt á  [Github.com/vefhonnun](https://github.com/vefhonnun). Nemendur og kennarar geta notað það endurgjaldslaust. Hugbúnaður sem notaður verðurur er aðgengilegur á internetinu og gjaldfrjáls. Það er möguleiki að bjóða Kennurum á stutt námskeið í notkun GitHub sem umsjónarkerfi verkefna.
+Allt námsefnið verður aðgengilegt á  [Github.com/vefhonnun](https://github.com/vefhonnun). Nemendur og kennarar geta notað það endurgjaldslaust. Hugbúnaður sem verður notaður er aðgengilegur á internetinu og er gjaldfrjáls. Það er síðan möguleiki að bjóða Kennurum á stutt námskeið í notkun GitHub sem umsjónarkerfi verkefna.
 
 #### Kennslugögn
 * Skjákynningar (video)
@@ -51,11 +51,13 @@ _Undanfari Vefsíðuhönnun I_
   * Forvinnsla stíla (SCSS)
 
 ## Vefsíðuhönnun III
+_Undanfari Vefsíðuhönnun II_
 * Gagnvirkni
-  * Javaskrift
-  * form / töflur
-  * PHP/Python
-  * Gagnagrunnar
+  * Viðmótsforritun - Javaskrift
+  * Vefforritun
+      form / töflur
+      PHP/Python
+      Gagnagrunnar
   * Vefumsjónarkerfi
   
 

@@ -1,5 +1,5 @@
 # Vefhönnun
-Allt námsefnið verður aðgengilegt á  [Github.com/vefhonnun](https://github.com/vefhonnun). Nemendur og kennarar geta notað það endurgjaldslaust. Hugbúnaður sem verður notaður er aðgengilegur á internetinu og er gjaldfrjáls. Það er síðan möguleiki að bjóða Kennurum á stutt námskeið í notkun GitHub sem umsjónarkerfi verkefna.
+Allt námsefnið verður aðgengilegt á  [Github.com/vefhonnun-1](https://github.com/vefhonnun). Nemendur og kennarar geta notað það endurgjaldslaust. Hugbúnaður sem verður notaður er aðgengilegur á internetinu og er gjaldfrjáls. Það er síðan möguleiki að bjóða Kennurum á stutt námskeið í notkun GitHub sem umsjónarkerfi verkefna. Kennsluefnið verður samansett af skjákynningum (_screencast_), skrkiflegum verklýsingum og dæmum sem hægt er að skoða í viðkomandi verkefni. Hér er dæmi um hvernig verkefni er sett upp: (tengill). 
 
 #### Kennslugögn
 * Skjákynningar (video)
@@ -32,7 +32,7 @@ _Undanfari engin_
 * Skipulag vefsíðu
   * Boxmodelið og grindakerfið
 * Leturfræði
-  * Meðhöndlun leturs 
+  * Meðhöndlun leturs í vefsíðu
 * Myndvinnsla
   * Gimp myndvinnsluforritið
   * Innsetning kvikmynda- og hljóðskráa

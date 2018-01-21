@@ -54,10 +54,8 @@ _Undanfari Vefsíðuhönnun I_
 _Undanfari Vefsíðuhönnun II_
 * Gagnvirkni
   * Viðmótsforritun - Javaskrift
-  * Vefforritun
-      form / töflur
-      PHP/Python
-      Gagnagrunnar
-  * Vefumsjónarkerfi
+  * Vefforritun - PHP/Python
+  * Gagnagrunnar - mySQL
+  * Vefumsjónarkerfi - 
   
 

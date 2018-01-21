@@ -1,10 +1,11 @@
 # Vefhönnun
-Allt námsefnið verður aðgengilegt á [Github.com/vefhonnun/vsh1/](https://github.com/vefhonnun). Kennsluefnið verður samansett af skjákynningum (_screencast_), skriflegum verklýsingum og dæmum sem hægt er að skoða. Hér er dæmi um hvernig verkefni er sett upp: (tengill). Nemendur og kennarar geta notað það endurgjaldslaust. Hugbúnaður sem verður notaður er aðgengilegur á internetinu og er gjaldfrjáls. 
+Allt námsefnið verður aðgengilegt á [Github.com/vefhonnun/vsh1/](https://github.com/vefhonnun). Kennsluefnið verður samansett af skjákynningum (_screencast_), skriflegum verklýsingum og dæmum sem hægt er að skoða. Nemendur og kennarar geta notað það endurgjaldslaust. Hugbúnaður sem verður notaður er aðgengilegur á internetinu og er gjaldfrjáls. 
 
 #### Kennslugögn
 * Skjákynningar (video)
 * Verklýsingar 
 * Verkefnadæmi
+Hér er dæmi um hvernig verkefni verður sett upp: [Verkefni 1. HTML](Verkefni1-HTML/).
 
 #### Kennsluumhverfi
  * GitHub

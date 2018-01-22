@@ -2,7 +2,7 @@
 
 [Skjákynning 1. verkefni](https://gjg.github.io/Vefhonnun/)
 
-**ATHUGIÐ** að skjákynningin sem vísað er í hér að ofan er komin til ára sinna og er einungis til að sýna fyrirkomulag kennsluefnis. Ef að umsóknin verður samþykkt þá verður allt námsefnið tekið upp á nýtt.
+**ATHUGIÐ** að skjákynningin sem vísað er í hér að ofan er komin til ára sinna og er einungis til að sýna fyrirkomulag kennsluefnis. Ef að umsóknin verður samþykkt þá verður allt námsefnið tekið upp á nýtt. Einnig er textinn hér að neðan alls ekki tæmandi heldur sýnishorn af uppsetningu texta og kóða.
 
 ## Hvað er HTML?
  

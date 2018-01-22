@@ -1,7 +1,7 @@
 # Vefhönnun
 Þessi geymsla _(Repository)_ er tillaga _(Mockup)_ að kennsluefni fyrir byrjendur vefhönnun. Markhópur vefsins er fyrst og fremst nemendur á framhaldsskólastigi. Einnig geta nemendur á síðari stigum grunnskóla nýtt sér efni geymslunnar og svo allir sem hafa áhuga á vefhönnun. 
 
-Námsefnið verður aðgengilegt í tveimur geymslum _(repositories)_ [Github.com/vefhonnun/](https://github.com/vefhonnun) **VSH 1** og **VSH 2**. 
+Námsefnið verður aðgengilegt í tveimur geymslum _(repositories)_ [Github.com/vefhonnun/](https://github.com/vefhonnun) **VSH1** og **VSH2**. 
 
 Kennsluefnið verður samansett af skjákynningum (_screencast_), skriflegum verklýsingum og dæmum sem hægt er að skoða. Nemendur og kennarar geta notað það endurgjaldslaust. Hugbúnaður sem verður notaður er aðgengilegur á internetinu og er gjaldfrjáls. 
 
@@ -56,18 +56,16 @@ _Undanfari Vefsíðuhönnun I_
   * Forvinnsla stíla (SCSS)
 * Viðmótsforritun - _Javaskrift_
 
+Í framhaldi af gerð námsefnisins er möguleiki að bjóða kennurum á stutt námskeið í notkun GitHub sem umsjónarkerfi verkefna. Einnig er hægt að halda áfram námsefnisgerðini ef vel tekst til og bjóða upp á framhald í vefforritun og gagnasafnsfræði. 
+
 ## Vefþróun I (vef1)
 _Undanfari Vefsíðuhönnun II_
 * GIT Samþáttun og verkstjórn
 * Samskipti og staðlar
-  * IP/TCP
-  * HTTP/HTTPS
-  * FTP/FTPS
-  * SSH
+  * IP/TCP - HTTP/HTTPS
+  * FTP/FTPS - SSH
 * Gagnvirkni
   * Vefforritun - PHP/Python
   * Gagnagrunnar - mySQL
   * Vefumsjónarkerfi - 
   
-
-Í framhaldi af gerð námsefnisins getur verið möguleiki að bjóða kennurum á stutt námskeið í notkun GitHub sem umsjónarkerfi verkefna.

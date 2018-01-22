@@ -56,6 +56,10 @@ _Undanfari Vefsíðuhönnun I_
   * Forvinnsla stíla (SCSS)
 * Viðmótsforritun - _Javaskrift_
 
+## Annað
+* Heimildir og ýtarefni (Wiki)
+* Hugbúnaður við kennslu
+
 Í framhaldi af gerð námsefnisins er möguleiki að bjóða kennurum á stutt námskeið í notkun GitHub sem umsjónarkerfi verkefna. Einnig er hægt að halda áfram námsefnisgerðini ef vel tekst til og bjóða upp á framhald í vefforritun og gagnasafnsfræði. 
 
 ## Vefþróun I (vef1)

@@ -6,6 +6,10 @@ body
     background: #1a1a1a url('VSH_1To.svg') 2em 2em fixed no-repeat;
     font: 1em/1.6em sans-serif;
     text-align: center;
+
+    margin:1em auto;
+    max-width:38em;
+
 }
 h1 {
 	color: rgb(199,199,199);
@@ -17,12 +21,7 @@ p {
 a {
     color: #ff0;
 }
-.media
-{
-    margin:1em auto;
-    width: 100%;
-    max-width:1024px;
-}
+
 video {
 	width: 100%;
 	height: auto;

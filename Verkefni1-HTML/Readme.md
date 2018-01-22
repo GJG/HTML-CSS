@@ -4,12 +4,7 @@
 
 **ATHUGIÐ** að skjákynningin sem vísað er í hér að ofan er komin til ára sinna og er einungis til að sýna fyrirkomulag kennsluefnis. Ef að umsóknin verður samþykkt þá verður allt námsefnið tekið upp á nýtt.
 
-# Kennsluaðferð
-* verkefnum deilt út sem geymslum
-* Verkefnalýsingar eru á skjákynningarformi (screencast) 
-* Verkefnadæmi er hægt að skoða á textaformi (.txt) 
-* Bjargir á ýtarefni í Wiki
-
+## Hvað er HtML?
  
 **HTML** er ívafsmál _(HyperText Markup Language)_  notað til þess að sníða stiklutexta.  Það inniheldur fjöldann allan af svonefndum tögum (tags) sem eru notuð til að merkja á rökréttan hátt hvaða hlutar skjalsins þýða hvað, til dæmis hver fyrsta fyrirsögnin á síðunni er. 
 
@@ -21,7 +16,7 @@ Tæmandi listi yfir helstu tög sem notuð eru við html ritun er t.d. að finna
 
 Þegar vefsíðan er skoðuð nánar (bakvið tjöldin) kemur í ljós HTML kóði vefsíðunnar. 
  
-´´´´
+```
 <!DOCTYPE HTML> 
 <html>  
 	<head>  
@@ -33,7 +28,7 @@ Tæmandi listi yfir helstu tög sem notuð eru við html ritun er t.d. að finna
 	</body>  
 </html>  
 
-´´´´
+```
 
-(Aftur á forsíðu)(../readme.md)
+[Aftur á forsíðu)(../)
 

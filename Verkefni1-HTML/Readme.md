@@ -4,7 +4,7 @@
 
 **ATHUGIÐ** að skjákynningin sem vísað er í hér að ofan er komin til ára sinna og er einungis til að sýna fyrirkomulag kennsluefnis. Ef að umsóknin verður samþykkt þá verður allt námsefnið tekið upp á nýtt.
 
-## Hvað er HtML?
+## Hvað er HTML?
  
 **HTML** er ívafsmál _(HyperText Markup Language)_  notað til þess að sníða stiklutexta.  Það inniheldur fjöldann allan af svonefndum tögum (tags) sem eru notuð til að merkja á rökréttan hátt hvaða hlutar skjalsins þýða hvað, til dæmis hver fyrsta fyrirsögnin á síðunni er. 
 
@@ -30,5 +30,5 @@ Tæmandi listi yfir helstu tög sem notuð eru við html ritun er t.d. að finna
 
 ```
 
-[Aftur á forsíðu)(../)
+[Aftur á forsíðu](../)
 

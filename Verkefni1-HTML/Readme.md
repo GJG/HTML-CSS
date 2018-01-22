@@ -30,5 +30,5 @@ Tæmandi listi yfir helstu tög sem notuð eru við html ritun er t.d. að finna
 
 ```
 
-[Aftur á forsíðu](../)
+[Aftur á forsíðu](https://github.com/GJG/Vefhonnun)
 

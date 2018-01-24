@@ -5,7 +5,7 @@ Kennsluefnið verður samansett af skjákynningum (_screencast_), skriflegum ver
 
 Námsefnið verður aðgengilegt í tveimur geymslum _(repositories)_ [Github.com/vefhonnun/](https://github.com/vefhonnun) **VSH1** og **VSH2**. 
 
-**Github.com/vefhonnun** er samfélag _(e. organisation)_. Allir kennarar sem kenna vef- og upplýsingamiðlun geta sótt um aðgang að námsefninu. Þeir sem fá aðgagn að samfélaginu geta afritað geymlurnar, bætt við námsefnið og um það getur myndast umræður og þróun sem nær langt út fyrir upphaflegt námsefni. Ef að umsóknin er samþykkt er möguleiki á að halda stutt námskeið fyrir kennara um hvernig þeir geta nýtt sér Github sem samfélagsmiðil.
+**Github.com/vefhonnun** er samfélag _(e. organisation)_. Allir kennarar sem kenna vef- og upplýsingamiðlun geta sótt um aðgang að námsefninu. Þeir sem fá aðgagn að samfélaginu geta afritað geymslurnar, bætt við námsefnið og um það getur myndast umræður og þróun sem nær langt út fyrir upphaflegt námsefni. Ef að umsóknin verður samþykkt er möguleiki á að halda stutt námskeið fyrir kennara um hvernig þeir geta nýtt sér Github sem samfélagsmiðil.
 
 #### Kennslugögn
 * Skjákynningar (video)

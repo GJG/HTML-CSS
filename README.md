@@ -1,9 +1,11 @@
 # Vefhönnun
 Þessi geymsla _(Repository)_ er tillaga _(Mockup)_ að kennsluefni fyrir byrjendur vefhönnun. Markhópur vefsins er fyrst og fremst nemendur á framhaldsskólastigi. Einnig geta nemendur á síðari stigum grunnskóla nýtt sér efni geymslunnar og svo allir sem hafa áhuga á vefhönnun. 
 
+Kennsluefnið verður samansett af skjákynningum (_screencast_), skriflegum verklýsingum og dæmum sem hægt er að skoða. Nemendur og kennarar geta notað það endurgjaldslaust. Hugbúnaður sem verður notaður er aðgengilegur á internetinu og er gjaldfrjáls. 
+
 Námsefnið verður aðgengilegt í tveimur geymslum _(repositories)_ [Github.com/vefhonnun/](https://github.com/vefhonnun) **VSH1** og **VSH2**. 
 
-Kennsluefnið verður samansett af skjákynningum (_screencast_), skriflegum verklýsingum og dæmum sem hægt er að skoða. Nemendur og kennarar geta notað það endurgjaldslaust. Hugbúnaður sem verður notaður er aðgengilegur á internetinu og er gjaldfrjáls. 
+Github.com/vefhonnun er samfélag _(e. organisation)_. Allir kennarar sem kenna vef- og upplýsingamiðlun geta sótt um aðgang að námsefninu. Þeir sem fá aðgagn að samfélaginu geta afritað geymlurnar, bætt við námsefnið og um það getur myndast umræður og þróun sem nær langt út fyrir upphaflegt námsefni. Ef að umsóknin er samþykkt er möguleiki á að halda stutt námskeið fyrir kennara um hvernig þeir geta nýtt sér Github sem samfélagsmiðil.
 
 #### Kennslugögn
 * Skjákynningar (video)

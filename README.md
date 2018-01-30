@@ -4,9 +4,9 @@
 Kennsluefnið verður samansett af skjákynningum (_screencast_), skriflegum verklýsingum og dæmum sem hægt er að skoða. Nemendur og kennarar geta notað það endurgjaldslaust. Hugbúnaður sem verður notaður er aðgengilegur á internetinu og er gjaldfrjáls. 
 
 Námsefnið verður aðgengilegt í tveimur geymslum _(repositories)_ [Github.com/vefhonnun/](https://github.com/vefhonnun) **VSH1** og **VSH2**. 
-Sýnidæmi sem ætluð eru kennurum verða í sérgeymslu og aðgagnur takmarkaður við kennara með ritstjóraréttindi á Github.com/vefhonnun/
 
-**Github.com/vefhonnun** er samfélag _(e. organisation)_. Allir kennarar sem kenna vef- og upplýsingamiðlun geta sótt um aðgang að námsefninu. Þeir sem fá aðgagn að samfélaginu geta afritað geymslurnar, bætt við námsefnið og um það getur myndast umræður og þróun sem nær langt út fyrir upphaflegt námsefni.
+**Github.com/vefhonnun** er samfélag _(e. organisation)_. Allir kennarar sem kenna vef- og upplýsingamiðlun geta sótt um aðgang að námsefninu. Þeir sem fá aðgagn að samfélaginu geta afritað geymslurnar, bætt við námsefnið og um það getur myndast umræður og þróun sem nær langt út fyrir upphaflegt námsefni.  Sýnidæmi (demo) sem ætluð eru kennurum verða í sérgeymslu og aðgangur að henni takmarkaður við kennara með ritstjóraréttindi á Github.com/vefhonnun/
+
 
 #### Kennslugögn
 * Skjákynningar (video)

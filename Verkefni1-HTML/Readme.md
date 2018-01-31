@@ -1,8 +1,7 @@
 # HTML vefritun  
 
-[Skjákynning 1. verkefni](https://gjg.github.io/Vefhonnun/)
-
-**ATHUGIÐ** að skjákynningin sem vísað er í hér að ofan er komin til ára sinna og er einungis til að sýna fyrirkomulag kennsluefnis. Ef að umsóknin verður samþykkt þá verður allt námsefnið tekið upp á nýtt. Einnig er textinn hér að neðan alls ekki tæmandi heldur sýnishorn af uppsetningu texta og kóða.
+* [Skjákynning 1. verkefni](https://gjg.github.io/Vefhonnun/)
+* [Verkefnalýsing 1](Verkefni-1.md)
 
 ## Hvað er HTML?
  
@@ -29,8 +28,7 @@ Tæmandi listi yfir helstu tög sem notuð eru við html ritun er t.d. að finna
 </html>  
 
 ```
-### Verkefnalýsing 
-* [Verkefnalýsing 1](Verkefni-1.md)
+
 
 * [Aftur á forsíðu](https://github.com/GJG/Vefhonnun)
 

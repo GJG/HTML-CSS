@@ -32,3 +32,5 @@ Tæmandi listi yfir helstu tög sem notuð eru við html ritun er t.d. að finna
 
 * [Aftur á forsíðu](https://github.com/GJG/Vefhonnun)
 
+**ATHUGIÐ** 
+Textinn hér að ofan alls ekki tæmandi heldur sýnishorn af uppsetningu texta og kóða.

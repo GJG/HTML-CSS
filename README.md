@@ -3,7 +3,7 @@
 
 Kennsluefnið verður samansett af skjákynningum (_screencast_), skriflegum verklýsingum og dæmum sem hægt er að skoða. Nemendur og kennarar geta notað það endurgjaldslaust. Hugbúnaður sem verður notaður er aðgengilegur á internetinu og er gjaldfrjáls. 
 
-Námsefnið verður aðgengilegt í tveimur geymslum _(repositories)_ [Github.com/vefhonnun/](https://github.com/vefhonnun) **VSH1** og **VSH2**. 
+Námsefnið verður aðgengilegt í tveimur geymslum _(repositories)_ [Github.com/vefhonnun/](https://github.com/vefhonnun) **VEF1** og **VEF2**. 
 
 **Github.com/vefhonnun** er samfélag _(e. organisation)_. Allir kennarar sem kenna vef- og upplýsingamiðlun geta sótt um aðgang að námsefninu. Þeir sem fá aðgagn að samfélaginu geta afritað geymslurnar, bætt við námsefnið og um það getur myndast umræður og þróun sem nær langt út fyrir upphaflegt námsefni.  Sýnidæmi (demo) sem ætluð eru kennurum verða í sérgeymslu og aðgangur að henni takmarkaður við kennara með ritstjóraréttindi á Github.com/vefhonnun/
 
@@ -31,7 +31,7 @@ Námsefnið verður aðgengilegt í tveimur geymslum _(repositories)_ [Github.co
 * Kynning á samþáttun og verkstjórn 
 * Innsetning vefsíðu á Github.io
 
-## Vefsíðuhönnun I (vsh1)
+## Vefsíðuhönnun I (VEF1)
 _Undanfari engin_
 * HTML ívafsmálið
   * Tög og uppbygging vefsíðu
@@ -48,7 +48,7 @@ _Undanfari engin_
   * Kvikmynda- og hljóðvinnsla
   * Innsetning kvikmynda- og hljóðskráa 
   
-## Vefsíðuhönnun II (vsh2)
+## Vefsíðuhönnun II (VEF2)
 _Undanfari Vefsíðuhönnun I_
 * Skipulagning og undirbúningur vefs
 * Sveigjanleg vefsíðuhönnun (RWD)
@@ -65,7 +65,7 @@ _Undanfari Vefsíðuhönnun I_
 
 Í framhaldi af gerð námsefnisins er möguleiki að bjóða kennurum á stutt námskeið í notkun GitHub sem umsjónarkerfi verkefna og sem samfélagsmiðils. Einnig er hægt að halda áfram námsefnisgerðini ef vel tekst til og bjóða upp á framhald í vefforritun og gagnasafnsfræði. 
 
-## Vefþróun I (vef1)
+## Vefþróun I (VEF3)
 _Undanfari Vefsíðuhönnun II_
 * GIT Samþáttun og verkstjórn
 * Samskipti og staðlar

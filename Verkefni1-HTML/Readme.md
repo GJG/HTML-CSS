@@ -11,7 +11,7 @@
 
 Allar vefsíður byrja á &lt;html> og enda á &lt;/html> taginu.  Munurinn á opnunartaginu og lokunartaginu er skástrikið /.  Hvert tag hefur sitt ákveðna hlutverk í uppsetningunni. 
 
-Tæmandi listi yfir helstu tög sem notuð eru við html ritun er t.d. að finna á vefsíðunni [www.w3schools.com](http://www.w3schools.com/html5/html5_reference.asp) 
+Tæmandi listi yfir helstu tög sem notuð eru við html ritun er t.d. að finna á vefsíðunni [www.w3schools.com](https://www.w3schools.com/tags/default.asp) 
 
 Þegar vefsíðan er skoðuð nánar (bakvið tjöldin) kemur í ljós HTML kóði vefsíðunnar. 
  

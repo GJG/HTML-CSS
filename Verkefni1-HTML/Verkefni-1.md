@@ -1,5 +1,5 @@
 # Verkefnalýsing 1
-* [Skjákynning](https://gjg.github.io/Vefhonnun/docs)
+* [Skjákynning](https://gjg.github.io/Vefhonnun/)
 * [HTML vefritun](Readme.md)
 * [Forsíða](https://gjg.github.io/Vefhonnun/)
 

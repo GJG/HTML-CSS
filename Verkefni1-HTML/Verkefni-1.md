@@ -8,7 +8,7 @@
 #### 1.A
 Búðu til HTML vefsíðu, notaðu vefrita s.s. Sublime Text 3 til að auvelda þér verkefnið.
 Í möppunni [**"vinnugogn"**](https://github.com/GJG/Vefhonnun/tree/master/Verkefni1-HTML/vinnugogn) er textaskrá *(verk1.txt)*, afritaðu textann og settu hann inn á vefsíðuna. 
-#### 1.B, C of D.
+#### 1.B, C og D.
 Í sömu möppu er .pdf skrá **"verk1.pdf"**. Fylgdu leiðbeiningum þar og settu viðeigandi HTML tög í vefsíðuna til að líkja eftir uppsetningunni á .pdf skjalinu. 
 
 

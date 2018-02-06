@@ -23,13 +23,6 @@ Námsefnið verður aðgengilegt í tveimur geymslum _(repositories)_ [Github.co
 
 #### Skipulag námsefnis
 
-## GitHub 
-* Grunnatriði í uppsetningu geymslu _(repository)_
-* Innsetning gagna í geymslu
-* Hópverkefnavinna
-* Hugmyndavinna, skipulagning og verkstjórn 
-* Kynning á samþáttun og verkstjórn 
-* Innsetning vefsíðu á Github.io
 
 ## Vefsíðuhönnun I (VEF1)
 _Undanfari engin_
@@ -59,9 +52,17 @@ _Undanfari Vefsíðuhönnun I_
   * Forvinnsla stíla (SCSS)
 * Viðmótsforritun - _Javaskrift_
 
-## Annað
-* Heimildir og ýtarefni (Wiki)
-* Hugbúnaður við kennslu
+## GitHub 
+* Grunnatriði í uppsetningu geymslu _(repository)_
+* Innsetning gagna í geymslu
+* Hópverkefnavinna
+* Hugmyndavinna, skipulagning og verkstjórn 
+* Kynning á samþáttun og verkstjórn 
+* Innsetning vefsíðu á Github.io
+
+## Github Wiki  
+* [Hugbúnaður við kennslu](https://github.com/GJG/Vefhonnun/wiki)
+* [Heimildir](https://github.com/GJG/Vefhonnun/wiki)
 
 Í framhaldi af gerð námsefnisins er möguleiki að bjóða kennurum á stutt námskeið í notkun GitHub sem umsjónarkerfi verkefna og sem samfélagsmiðils. Einnig er hægt að halda áfram námsefnisgerðini ef vel tekst til og bjóða upp á framhald í vefforritun og gagnasafnsfræði. 
 

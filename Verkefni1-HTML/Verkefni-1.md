@@ -9,11 +9,12 @@
 Búðu til HTML vefsíðu, notaðu vefrita s.s. Sublime Text 3 til að auvelda þér verkefnið.
 
 #### 1.b
-Í möppunni **"vinnugogn"** er textaskrá __(verk1.txt)__, afritaðu textann og settu hann inn á vefsíðuna. 
+Í möppunni **"vinnugogn"** er textaskrá *(verk1.txt)*, afritaðu textann og settu hann inn á vefsíðuna. 
 
 #### 1.c
-Í sömu möppu er .pdf skrá "verk1.pdf". Settu viðeigandi HTML tög í vefsíðuna til að líkja eftir uppsetningunni á .pdf skjalinu. Til þess þarftu að nota tögin H1, H2, H3, P, STRONG, EM, BR, SUB OG SUP. 
+Í sömu möppu er .pdf skrá **"verk1.pdf"**. Settu viðeigandi HTML tög í vefsíðuna til að líkja eftir uppsetningunni á .pdf skjalinu. Til þess þarftu að nota tögin **H1, H2, H3, P, STRONG, EM, BR, SUB** og **SUP**. 
 
+ATHUGIÐ Textinn hér að ofan *alls ekki tæmandi* heldur sýnishorn af uppsetningu texta og kóða.
 
 ## Ítarefni.
 * Hvernig virkar internetið? 

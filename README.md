@@ -62,7 +62,7 @@ _Undanfari Vefsíðuhönnun I_
 
 ## Github Wiki  
 * [Hugbúnaður við kennslu](https://github.com/GJG/Vefhonnun/wiki)
-* [Heimildir](https://github.com/GJG/Vefhonnun/wiki)
+* [Heimildir](https://github.com/GJG/Vefhonnun/wiki/Heimildaskr%C3%A1)
 
 Í framhaldi af gerð námsefnisins er möguleiki að bjóða kennurum á stutt námskeið í notkun GitHub sem umsjónarkerfi verkefna og sem samfélagsmiðils. Einnig er hægt að halda áfram námsefnisgerðini ef vel tekst til og bjóða upp á framhald í vefforritun og gagnasafnsfræði. 
 

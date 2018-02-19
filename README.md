@@ -40,7 +40,12 @@ _Undanfari engin_
 * Margmiðlun
   * Kvikmynda- og hljóðvinnsla Hvaða forrit er hægt að nota til að gera kvikmyndir og hljóðskrár hæfar til birtingar á internetinu án þess að nota Youtube eða aðra félagsmiðla.
   * Innsetning kvikmynda- og hljóðskráa á vefsíðu.
-  
+
+## GitHub 
+* Grunnatriði í uppsetningu geymslu _(repository)_
+* Innsetning gagna í geymslu
+* Innsetning vefsíðu á Github.io
+
 ## Vefsíðuhönnun II (VEF2)
 _Undanfari Vefsíðuhönnun I_
 * Skipulagning og undirbúningur vefs
@@ -53,15 +58,11 @@ _Undanfari Vefsíðuhönnun I_
   * Fellilisti
   * Föst staðetning
   * Forvinnsla stíla (SCSS)
-* Viðmótsforritun - _Javaskrift_
 
 ## GitHub 
-* Grunnatriði í uppsetningu geymslu _(repository)_
-* Innsetning gagna í geymslu
 * Hópverkefnavinna
 * Hugmyndavinna, skipulagning og verkstjórn 
-* Kynning á samþáttun og verkstjórn 
-* Innsetning vefsíðu á Github.io
+* GIT Samþáttun og verkstjórn
 
 ## Github Wiki  
 * [Hugbúnaður við kennslu](https://github.com/GJG/Vefhonnun/wiki)
@@ -71,11 +72,10 @@ _Undanfari Vefsíðuhönnun I_
 
 ## Vefþróun I (VEF3)
 _Undanfari Vefsíðuhönnun II_
-* GIT Samþáttun og verkstjórn
 * Samskipti og staðlar
   * IP/TCP - HTTP/HTTPS
   * FTP/FTPS - SSH
-* Gagnvirkni
+* Viðmótsforritun - _Javaskrift_
   * Vefforritun - PHP/Python
   * Gagnagrunnar - mySQL
   * Vefumsjónarkerfi - 

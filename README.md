@@ -44,8 +44,11 @@ _Undanfari engin_
 ## Vefsíðuhönnun II (VEF2)
 _Undanfari Vefsíðuhönnun I_
 * Skipulagning og undirbúningur vefs
+  * Hvað þarf að huga að áður en útlit vefsíðu er hannað. 
 * Sveigjanleg vefsíðuhönnun (RWD)
+  * Meira en 50% notenda internetsins nota einungis farsíma til að skoða internetið. Hvernig getum við hannað vefsíðu sem aðlagast mismunandi skjástærðum,
 * Kvikun (_animation_)
+  * Viðbrögð við athöfnum notenda á vefsíðu gerir upplifun hans sterkari. Hvernig er hægt að nota kvikun til að ná til notenda. 
 * Stílbrögð í CSS
   * Fellilisti
   * Föst staðetning

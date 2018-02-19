@@ -76,7 +76,7 @@ _Undanfari Vefsíðuhönnun II_
   * IP/TCP - HTTP/HTTPS
   * FTP/FTPS - SSH
 * Viðmótsforritun - _Javaskrift_
-  * Vefforritun - PHP/Python
-  * Gagnagrunnar - mySQL
-  * Vefumsjónarkerfi - 
+* Vefforritun - PHP/Python
+* Gagnagrunnar - mySQL
+* Vefumsjónarkerfi - 
   

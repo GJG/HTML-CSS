@@ -27,19 +27,19 @@ Námsefnið verður aðgengilegt í tveimur geymslum _(repositories)_ [Github.co
 ## Vefsíðuhönnun I (VEF1)
 _Undanfari engin_
 * HTML ívafsmálið
-  * Tög og uppbygging vefsíðu
+  * Tög og uppbygging vefsíðu. Í þessum kafla skoðum við hvernig vefsíða er byggð upp. Uppbygging vefsíðu má líkja við ættartré þar sem tög og innihald er tengt saman á einn eða annan hátt. 
 * CSS Stílsíður
-  * Stílar settir á vefsíðu
+  * Stílar settir á vefsíðu. Hér er sýnt hvernig hægt er að tengja stílsíðu við HTML síðu og hvernig hægt er að breyta útliti vefsíðunnar.
 * Skipulag vefsíðu
-  * Boxmodelið og grindakerfið
+  * Boxmodelið og grindakerfið. Eins og áður hefur verið nefnt þá er vefsíða byggð upp í ákveðnu kerfi. Hægt er að hafa áhrif á öll tög með stílum og stjórna uppbyggingu vefsíðunnar. 
 * Leturfræði
-  * Meðhöndlun leturs í vefsíðu
+  * Meðhöndlun leturs í vefsíðu. Litir og leturgerð á vefsíðu getur spilað stóran þátt í að skapa viðeigandi stemmingu í vefsíðu. í þessum kafla verður farið í helstu reglur um hvernig eigi að gera efni síðunnar athyglisverðari.
 * Myndvinnsla
-  * Gimp myndvinnsluforritið
-  * Innsetning kvikmynda- og hljóðskráa
+  * Gimp myndvinnsluforritið. Hvering á að meðhöndla myndir fyrir vefsíðu?
+  * Innsetning kvikmynda- og hljóðskráa. 
 * Margmiðlun
-  * Kvikmynda- og hljóðvinnsla
-  * Innsetning kvikmynda- og hljóðskráa 
+  * Kvikmynda- og hljóðvinnsla Hvaða forrit er hægt að nota til að gera kvikmyndir og hljóðskrár hæfar til birtingar á internetinu án þess að nota Youtube eða aðra félagsmiðla.
+  * Innsetning kvikmynda- og hljóðskráa á vefsíðu.
   
 ## Vefsíðuhönnun II (VEF2)
 _Undanfari Vefsíðuhönnun I_

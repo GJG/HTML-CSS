@@ -13,7 +13,7 @@ Allar vefsíður byrja á &lt;html> og enda á &lt;/html> taginu.  Munurinn á o
 
 Tæmandi listi yfir helstu tög sem notuð eru við html ritun er t.d. að finna á vefsíðunni [www.w3schools.com](https://www.w3schools.com/tags/default.asp) 
 
-Þegar vefsíðan er skoðuð nánar (bakvið tjöldin) kemur í ljós HTML kóði vefsíðunnar. 
+Þegar vefsíðan er skoðuð nánar (bakvið tjöldin) kemur í  ljós HTML kóði vefsíðunnar. 
  
 ```
 <!DOCTYPE HTML> 
@@ -34,3 +34,11 @@ Tæmandi listi yfir helstu tög sem notuð eru við html ritun er t.d. að finna
 
 **ATHUGIÐ** 
 Textinn hér að ofan alls ekki tæmandi heldur sýnishorn af uppsetningu texta og kóða.
+
+### Yfirlit
+
+* Í þessum kafla er farið yfir hvernig HTML síða er byggð upp. 
+* Hvaða tög eru aðalega notuð við uppsetningu vefsíðu 
+* Hvaða merkingu hafa nýju HTML 5 tögin í uppsetningunni.
+* Hvenær á að nota BR eða HR tögin 
+* Mikilvægi þess hvernig á að hreiðra tög inn í öðrum tögum og innsetja (tab) kóða til að gera hann skiljanlegri.  

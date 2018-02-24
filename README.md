@@ -54,6 +54,7 @@ _Undanfari Vefsíðuhönnun I_
   * Meira en 50% notenda internetsins nota einungis farsíma til að skoða internetið. Hvernig getum við hannað vefsíðu sem aðlagast mismunandi skjástærðum,
 * Kvikun (_animation_)
   * Viðbrögð við athöfnum notenda á vefsíðu gerir upplifun hans sterkari. Hvernig er hægt að nota kvikun til að ná til notenda. 
+  * Hvernig er hægt að nota SVG myndir í kvikun og hversvegna er skynsamlegt að nota slíkar myndir í hreyfimyndagerð.
 * Stílbrögð í CSS
   * Fellilisti
   * Föst staðetning

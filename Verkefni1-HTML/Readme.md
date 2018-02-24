@@ -29,9 +29,6 @@ Tæmandi listi yfir helstu tög sem notuð eru við html ritun er t.d. að finna
 
 ```
 
-
-* [Aftur á forsíðu](https://github.com/GJG/Vefhonnun)
-
 **ATHUGIÐ** 
 Textinn hér að ofan alls ekki tæmandi heldur sýnishorn af uppsetningu texta og kóða.
 
@@ -42,3 +39,5 @@ Textinn hér að ofan alls ekki tæmandi heldur sýnishorn af uppsetningu texta 
 * Hvaða merkingu hafa nýju HTML 5 tögin í uppsetningunni.
 * Hvenær á að nota BR eða HR tögin 
 * Mikilvægi þess hvernig á að hreiðra tög inn í öðrum tögum og innsetja (tab) kóða til að gera hann skiljanlegri.  
+
+* [Aftur á forsíðu](https://github.com/GJG/Vefhonnun)

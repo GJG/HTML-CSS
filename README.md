@@ -4,8 +4,9 @@
 
 ## Skipulag námsskeiðs
 
-* Kynning á **Git og GitHhub**
-  * Grunnatriði í uppsetningu geymslu _(repository)_
+* Kynning á [Github](https://github.com/)
+  * Skráning á Github
+  * Uppsetningu geymslu _(repository)_
   * Innsetning gagna í geymslu
   * Innsetning vefsíðu á Github.io
 * HTML ívafsmálið
@@ -23,4 +24,4 @@
 * [Hugbúnaður við kennslu](https://github.com/GJG/Vefhonnun/wiki)
 * [Heimildir](https://github.com/GJG/Vefhonnun/wiki/Heimildaskr%C3%A1)
 
-Í framhaldi af námsskeiðinu vonust við til að sjá ykkur aftur í haust á [tölvubrautinni]().
+Í framhaldi af námsskeiðinu vonumst við til að sjá ykkur aftur í haust á [tölvubrautinni](https://tskoli.github.io/).

@@ -1,12 +1,8 @@
 # Vefhönnun
-Þessi geymsla _(Repository)_ er tillaga _(Mockup)_ að kennsluefni fyrir byrjendur vefhönnun. Markhópur vefsins er fyrst og fremst nemendur á framhaldsskólastigi. Einnig geta nemendur á síðari stigum grunnskóla nýtt sér efni geymslunnar og svo allir sem hafa áhuga á vefhönnun. 
 
-Kennsluefnið verður samansett af skjákynningum (_screencast_), skriflegum verklýsingum og dæmum sem hægt er að skoða. Nemendur og kennarar geta notað það endurgjaldslaust. Hugbúnaður sem verður notaður er aðgengilegur á internetinu og er gjaldfrjáls. 
-
-Námsefnið verður aðgengilegt í tveimur geymslum _(repositories)_ [Github.com/vefhonnun/](https://github.com/vefhonnun) **VEF1** og **VEF2**. 
+Þessi geymsla _(Repository)_ er kynning á vefsíðugerð og vefhönnun. Nemendur geta nýtt sér efni geymslunnar og svo allir sem hafa áhuga á vefhönnun. Kennsluefnið verður samansett af skjákynningum (_screencast_), skriflegum verklýsingum og dæmum sem hægt er að skoða. Hugbúnaður sem verður notaður er aðgengilegur á internetinu og er gjaldfrjáls. 
 
 **Github.com/vefhonnun** er samfélag _(e. organisation)_. Allir kennarar sem kenna vef- og upplýsingamiðlun geta sótt um aðgang að námsefninu. Þeir sem fá aðgagn að samfélaginu geta afritað geymslurnar, bætt við námsefnið og um það getur myndast umræður og þróun sem nær langt út fyrir upphaflegt námsefni.  Sýnidæmi (demo) sem ætluð eru kennurum verða í sérgeymslu og aðgangur að henni takmarkaður við kennara með ritstjóraréttindi á Github.com/vefhonnun/
-
 
 #### Kennslugögn
 * Skjákynningar (video)
@@ -22,9 +18,6 @@ Námsefnið verður aðgengilegt í tveimur geymslum _(repositories)_ [Github.co
    * Project _(Skipulag)_
 
 #### Skipulag námsefnis
-
-
-## Vefsíðuhönnun I (VEF1)
 _Undanfari engin_
 * HTML ívafsmálið
   * Tög og uppbygging vefsíðu. Í þessum kafla skoðum við hvernig vefsíða er byggð upp. Uppbygging vefsíðu má líkja við ættartré þar sem tög og innihald er tengt saman á einn eða annan hátt. 
@@ -46,20 +39,6 @@ _Undanfari engin_
 * Innsetning gagna í geymslu
 * Innsetning vefsíðu á Github.io
 
-## Vefsíðuhönnun II (VEF2)
-_Undanfari Vefsíðuhönnun I_
-* Skipulagning og undirbúningur vefs
-  * Hvað þarf að huga að áður en útlit vefsíðu er hannað. 
-* Sveigjanleg vefsíðuhönnun (RWD)
-  * Meira en 50% notenda internetsins nota einungis farsíma til að skoða internetið. Hvernig getum við hannað vefsíðu sem aðlagast mismunandi skjástærðum,
-* Kvikun (_animation_)
-  * Viðbrögð við athöfnum notenda á vefsíðu gerir upplifun hans sterkari. Hvernig er hægt að nota kvikun til að ná til notenda. 
-  * Hvernig er hægt að nota SVG myndir í kvikun og hversvegna er skynsamlegt að nota slíkar myndir í hreyfimyndagerð.
-* Stílbrögð í CSS
-  * Fellilisti
-  * Föst staðetning
-  * Forvinnsla stíla (SCSS)
-
 ## GitHub 
 * Hópverkefnavinna
 * Hugmyndavinna, skipulagning og verkstjórn 
@@ -69,15 +48,4 @@ _Undanfari Vefsíðuhönnun I_
 * [Hugbúnaður við kennslu](https://github.com/GJG/Vefhonnun/wiki)
 * [Heimildir](https://github.com/GJG/Vefhonnun/wiki/Heimildaskr%C3%A1)
 
-Í framhaldi af gerð námsefnisins er möguleiki að bjóða kennurum á stutt námskeið í notkun GitHub sem umsjónarkerfi verkefna og sem samfélagsmiðils. Einnig er hægt að halda áfram námsefnisgerðini ef vel tekst til og bjóða upp á framhald í vefforritun og gagnasafnsfræði. 
-
-## Vefþróun I (VEF3)
-_Undanfari Vefsíðuhönnun II_
-* Samskipti og staðlar
-  * IP/TCP - HTTP/HTTPS
-  * FTP/FTPS - SSH
-* Viðmótsforritun - _Javaskrift_
-* Vefforritun - PHP/Python
-* Gagnagrunnar - mySQL
-* Vefumsjónarkerfi - 
-  
+Í framhaldi af gerð námsefnisins er möguleiki að bjóða kennurum á stutt námskeið í notkun GitHub sem umsjónarkerfi verkefna og sem samfélagsmiðils. Einnig er hægt að halda áfram námsefnisgerðini ef vel tekst til og bjóða upp á framhald í vefforritun og gagnasafnsfræði.

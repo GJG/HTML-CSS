@@ -21,7 +21,7 @@
 
 ### Bjargir
 
-* [Hugbúnaður við kennslu](https://github.com/GJG/Vefhonnun/wiki)
+* [Hugbúnaður](https://github.com/GJG/Vefhonnun/wiki)
 * [Heimildir](https://github.com/GJG/Vefhonnun/wiki/Heimildaskr%C3%A1)
 
 Í framhaldi af námsskeiðinu vonumst við til að sjá ykkur aftur í haust á [tölvubrautinni](https://tskoli.github.io/).

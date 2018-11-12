@@ -5,8 +5,8 @@
 ## Skipulag námsskeiðs
 
 * Kynning á [Github](https://github.com/)
-  * Skráning á Github
-  * Uppsetningu geymslu _(repository)_
+  * Skráning
+  * Uppsetning geymslu _(repository)_
   * Innsetning gagna í geymslu
   * Innsetning vefsíðu á Github.io
 * HTML ívafsmálið

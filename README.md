@@ -19,18 +19,12 @@
 * Margmiðlun
   * Innsetning [kvikmynda- og hljóðskráa] á vefsíðu
 
-### Skráning á Github 
+### Skráning á Github
 
 1. Nemendur stofna reikning (_account_) á [GitHub](https://github.com/)
-   * Við skráninguna geta nemendur notað [tölvupóstfang](https://tskoli.is/tolvuthjonusta/skolanetfang/) sem Tækniskólinn úthlutar hverjum nemanda. 
-   * Ef skólanetfangið er notað þá er hægt að fá aðgang að [Github Education](https://education.github.com/pack)
-   * Einnig geta nemendur notað [Office 365](https://tskoli.is/tolvuthjonusta/office-og-adobe/) hugbúnaðin. 
-2. Skráningarmöguleikar
-    * Við skráninguna geta nemendur notað [tölvupóstfang](https://tskoli.is/tolvuthjonusta/skolanetfang/) sem Tækniskólinn úthlutar hverjum nemanda. 
-    * Ef skólanetfangið er notað þá er hægt að fá aðgang að [Github Education](https://education.github.com/pack)
-    * Einnig geta nemendur notað [Office 365](https://tskoli.is/tolvuthjonusta/office-og-adobe/) hugbúnaðin.
+   * Við skráninguna verða nemendur að eiga [tölvupóstfang](https://gmail.google.com/)
 
-### Lesefni 
+### Lesefni
 
 * [Bjargir](https://github.com/vefgrunnur/Verkefnayfirlit/wiki/)
 * [Glósur _pdf_](https://github.com/vefgrunnur/vefgrunnur.github.io/tree/master/Lesefni)

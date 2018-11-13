@@ -10,14 +10,14 @@
   * Innsetning gagna í geymslu
   * Innsetning vefsíðu á Github.io
 * HTML ívafsmálið
-  * Tög og uppbygging vefsíðu. Í þessum kafla skoðum við hvernig vefsíða er byggð upp. Uppbygging vefsíðu má líkja við ættartré þar sem tög og innihald er tengt saman á einn eða annan hátt.
+  * Tög og uppbygging vefsíðu. Í þessum kafla skoðum við hvernig vefsíða er byggð upp. Uppbygging vefsíðu má líkja við ættartré þar sem tög og innihald er tengt saman á einn eða annan hátt
 * CSS Stílsíður
   * Stílar settir á vefsíðu. Hér er sýnt hvernig hægt er að tengja stílsíðu við HTML síðu og hvernig hægt er að breyta útliti vefsíðunnar.
 * Myndvinnsla
-  * Hvering á að meðhöndla myndir fyrir vefsíðu?
-  * Innsetning kvikmynda- og hljóðskráa.
+  * Hvering á að meðhöndla myndir fyrir vef
+  * [Innsetning mynda] á vefsíðu
 * Margmiðlun
-  * Innsetning kvikmynda- og hljóðskráa á vefsíðu.
+  * Innsetning [kvikmynda- og hljóðskráa] á vefsíðu
 
 ### Bjargir
 

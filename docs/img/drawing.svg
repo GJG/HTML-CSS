@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="10cm"
+   height="10cm"
+   viewBox="0 0 100 100"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="drawing.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient4531"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4529" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="386.70941"
+     inkscape:cy="68.832926"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     inkscape:object-nodes="false"
+     inkscape:snap-smooth-nodes="true"
+     units="cm"
+     inkscape:window-width="1440"
+     inkscape:window-height="837"
+     inkscape:window-x="-8"
+     inkscape:window-y="152"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     transform="translate(0,-197)">
+    <rect
+       style="fill:#d40000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.09865981"
+       id="rect5971"
+       width="35.669846"
+       height="12.505643"
+       x="229.98749"
+       y="-57.034035"
+       transform="rotate(90)" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-197)">
+    <g
+       id="g6005"
+       clip-path="none"
+       transform="matrix(0,1.0034602,-1.0171821,0,115.14118,123.24613)"
+       style="fill:#000080">
+      <g
+         inkscape:label="Clip"
+         id="g6003"
+         style="fill:#000080">
+        <g
+           transform="translate(0.26726953,-7.2162772)"
+           id="g5998"
+           style="fill:#000080">
+          <path
+             id="path3692"
+             style="fill:#000080;fill-rule:evenodd;stroke-width:0.36681253"
+             d="M 153.41271,70.489075 A 29.533281,29.266012 0 0 1 123.87943,99.755087 29.533281,29.266012 0 0 1 94.346151,70.489075 29.533281,29.266012 0 0 1 123.87943,41.223063 29.533281,29.266012 0 0 1 153.41271,70.489075 Z M 85.25898,31.601357 h 77.2409 v 77.775433 h -77.2409 z"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+    </g>
+    <g
+       aria-label="A"
+       transform="matrix(2.0309415,0,0,2.1577634,-839.20169,-449.57668)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot3694" />
+  </g>
+</svg>

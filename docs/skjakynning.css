@@ -24,6 +24,9 @@ video {
 	width: 100%;
 	height: auto;
 }
+figure {
+    margin: 0;
+}
 .col-3 {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;

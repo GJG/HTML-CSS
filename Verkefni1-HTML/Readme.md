@@ -46,6 +46,6 @@ Búðu til HTML vefsíðu, notaðu vefrita s.s. [Visual Studio Code] til að auv
 * Í þessum kafla er farið yfir hvernig HTML síða er byggð upp.
 * Hvaða tög eru aðalega notuð við uppsetningu vefsíðu
 * Hvaða merkingu hafa nýju HTML 5 tögin í uppsetningunni.
-* Mikilvægi þess hvernig á að hreiðra tög inn í öðrum tögum og innsetja (tab) kóða til að gera hann skiljanlegri.  
+* Mikilvægi þess að hreiðra tög inn í öðrum tögum og innsetja kóða til að gera hann aðgengilegri.  
 
 * [Aftur á forsíðu](https://github.com/GJG/Vefhonnun)

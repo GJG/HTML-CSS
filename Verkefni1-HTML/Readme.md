@@ -18,13 +18,13 @@ Tæmandi listi yfir helstu tög sem notuð eru við html ritun er t.d. að finna
 	<title> Fyrsta vefsíðan mín </title>  
 	</head>  
 	<body>  
-	      <h1>Fyrirsögn</h1>
-		  <h2>Undirfyrirsögn</h2>
-		  <h3>Millifyrirsögn</h3>
-		  <h4>Áherslutexti</h4>
-		  <p>Málgrein</p>
-		  <h5>Neðanmálsgrein</h5>
-		  <h6>50% stærð af málsgrein</p>
+		<h1>Fyrirsögn</h1>
+		<h2>Undirfyrirsögn</h2>
+		<h3>Millifyrirsögn</h3>
+		<h4>Áherslutexti</h4>
+		<p>Málgrein</p>
+		<h5>Neðanmálsgrein</h5>
+		<h6>50% stærð af málsgrein</p>
 	</body>  
 </html>  
 

@@ -1,6 +1,6 @@
 # Vefhönnun
 
-Þetta námskeið er kynning á vefsíðugerð og vefhönnun og er ætlað áhugasömum nemendum í 10 bekk grunnskóla. Nemendur geta nýtt sér efni geymslunnar og svo allir sem hafa áhuga á vefhönnun. Kennslan er í formi fyrirlestra verklegra æfinga. Hugbúnaður sem verður notaður er aðgengilegur á internetinu og er gjaldfrjáls.
+Þetta námskeið er kynning á vefsíðugerð og vefhönnun og er ætlað áhugasömum nemendum í 10 bekk grunnskóla. Nemendur geta nýtt sér efni geymslunnar og svo allir sem hafa áhuga á vefhönnun. Kennslan er í formi fyrirlestra og verklegra æfinga. Hugbúnaður sem verður notaður er aðgengilegur á internetinu og er gjaldfrjáls.
 
 ## Skipulag námsskeiðs
 

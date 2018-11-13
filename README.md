@@ -24,9 +24,11 @@
 1. Nemendur stofna reikning (_account_) á [GitHub](https://github.com/)
    * Við skráninguna verða nemendur að eiga [tölvupóstfang](https://gmail.google.com/)
 
-### Lesefni
+### Ýtarefni
+
+Athugið að lesefnið er geymt í geymslunni _github.com/vefgrunnur_ sem er verkefnamappa fyrsta áfangans í vefþróun á tölvubreut Tækniskólans.
 
 * [Bjargir](https://github.com/vefgrunnur/Verkefnayfirlit/wiki/)
-* [Glósur _pdf_](https://github.com/vefgrunnur/vefgrunnur.github.io/tree/master/Lesefni)
+* [Lesefni _pdf_](https://github.com/vefgrunnur/vefgrunnur.github.io/tree/master/Lesefni)
 
 Í framhaldi af námsskeiðinu vonumst við til að sjá ykkur aftur í haust á [tölvubrautinni](https://tskoli.github.io/).

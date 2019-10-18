@@ -26,9 +26,7 @@
 
 ### Ýtarefni
 
-Athugið að lesefnið er geymt í geymslunni _github.com/vefgrunnur_ sem er verkefnamappa VEFÞ1VG05, fyrsta áfangans í vefþróun á tölvubraut Tækniskólans.
-
-* [Bjargir](https://github.com/vefgrunnur/Verkefnayfirlit/wiki/)
-* [Lesefni _pdf_](https://github.com/vefgrunnur/vefgrunnur.github.io/tree/master/Lesefni)
+VEFÞ1VG05* er fyrsti áfangans í vefþróun á tölvubraut Tækniskólans.
+* [Vefgrunnur](https://vefgrunnur.github.io)
 
 Í framhaldi af námsskeiðinu vonumst við til að sjá ykkur aftur í haust á [tölvubrautinni](https://tskoli.github.io/).

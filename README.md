@@ -26,7 +26,7 @@
 
 ### Ýtarefni
 
-VEFÞ1VG05* er fyrsti áfangans í vefþróun á tölvubraut Tækniskólans.
+*VEFÞ1VG05* er fyrsti áfangans í vefþróun á tölvubraut Tækniskólans.
 * [Vefgrunnur](https://vefgrunnur.github.io)
 
 Í framhaldi af námsskeiðinu vonumst við til að sjá ykkur aftur í haust á [tölvubrautinni](https://tskoli.github.io/).
